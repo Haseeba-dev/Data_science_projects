@@ -9,7 +9,7 @@ This repository contains all the Data Science projects that I have completed dur
 - Visualizations → Bar Charts for categorical features,
   Histograms to analyze numeric feature distributions,
 - Correlation Heatmap to examine relationships between numerical variables.
-- s
+  
 ## Task 2: Text Sentiment Analysis
 (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 - Text Preprocessing → Tokenization, Stopword Removal, Lemmatization
